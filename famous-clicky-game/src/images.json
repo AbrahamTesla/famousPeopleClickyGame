@@ -2,58 +2,58 @@
     {
     "id": 0,
     "name":"Abraham Lincoln",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/abrahamLincoln.jpeg"
+    "image": "abrahamLincoln.jpeg"
 },
 {
     "id": 1,
     "name": "Warren Buffet",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/warrenBuffet.jpeg"
+    "image": "warrenBuffet.jpeg"
 
 },
 {
     "id": 2,
     "name": "Albert Einstein",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/albertEinstein.jpeg"
+    "image": "albertEinstein.jpeg"
 
 },
 {
     "id": 3,
     "name":"Bill Gates",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/billGates.jpeg"
+    "image": "billGates.jpeg"
     
 },
 {
     "id": 4,
     "name": "Nelson Mandela",
-    "image":"https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/nelsonMandela.jpeg"
+    "image":"nelsonMandela.jpeg"
 },
 {
     "id": 5,
     "name":"Elon Musk",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/elonMusk.jpeg"
+    "image": "elonMusk.jpeg"
 
 },
 {
     "id": 6,
     "name":"LarryPage",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/larryPage.jpeg"
+    "image": "larryPage.jpeg"
 
 },
 {
     "id": 7,
     "name":"Mother Theresa",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/motherTheresa.jpeg"
+    "image": "motherTheresa.jpeg"
 
 },
 {
     "id": 8,
     "name": "Nikola Tesla",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/nikola.jpeg"
+    "image": "nikola.jpeg"
 
 },
 {
     "id": 9,
     "name":"Muhammad Ali",
-    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/muhammadAli.jpeg"
+    "image": "muhammadAli.jpeg"
 }
 ]

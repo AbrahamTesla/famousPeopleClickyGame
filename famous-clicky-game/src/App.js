@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Footer from "./components/footer.js";
 import Header from "./components/header.js";
-
 import Title from "./components/title.js";
 import image from "./images.json";
 import Images from './components/img.js';
