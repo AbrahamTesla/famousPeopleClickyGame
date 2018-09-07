@@ -2,58 +2,58 @@
     {
     "id": 0,
     "name":"Abraham Lincoln",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/abrahamLincoln.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/abrahamLincoln.jpeg"
 },
 {
     "id": 1,
     "name": "Warren Buffet",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/warrenBuffet.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/warrenBuffet.jpeg"
 
 },
 {
     "id": 2,
     "name": "Albert Einstein",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/albertEinstein.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/albertEinstein.jpeg"
 
 },
 {
     "id": 3,
     "name":"Bill Gates",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/billGates.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/billGates.jpeg"
     
 },
 {
     "id": 4,
     "name": "Nelson Mandela",
-    "image":"https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/nelsonMandela.jpeg"
+    "image":"https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/nelsonMandela.jpeg"
 },
 {
     "id": 5,
     "name":"Elon Musk",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/elonMusk.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/elonMusk.jpeg"
 
 },
 {
     "id": 6,
     "name":"LarryPage",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/larryPage.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/larryPage.jpeg"
 
 },
 {
     "id": 7,
     "name":"Mother Theresa",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/motherTheresa.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/motherTheresa.jpeg"
 
 },
 {
     "id": 8,
     "name": "Nikola Tesla",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/nikola.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/nikola.jpeg"
 
 },
 {
     "id": 9,
     "name":"Muhammad Ali",
-    "image": "https://github.com/AbrahamTesla/clickyGame/blob/master/clickygame/src/img/muhammadAli.jpeg"
+    "image": "https://github.com/AbrahamTesla/famousPeopleClickyGame/blob/master/famous-clicky-game/public/images/muhammadAli.jpeg"
 }
 ]
